@@ -1,4 +1,4 @@
 #!/bin/bash
-echo "Here is the absolute path"
+# Here is the absolute path
 pwd
 
