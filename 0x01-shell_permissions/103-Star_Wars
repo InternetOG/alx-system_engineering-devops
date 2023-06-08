@@ -1,2 +1,2 @@
 #!/bin/bash
-telx --video https://www.youtube.com/watch?v=1qFbGCz41Bg
+telnet towel.blinkenlights.nl
